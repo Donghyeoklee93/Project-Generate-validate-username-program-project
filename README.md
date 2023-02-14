@@ -17,3 +17,6 @@ e)	The username ends with the total number of upper case vowels contained in the
 
 
 Ask the user to provide a full name and after the corresponding username is generated and displayed on the screen, ask the user if they would like to generate another username. As long as the user enters “yes” the application should work as described in the previous sentence. When the user enters anything else than “yes”, no other items are created.
+
+
+IPO diagram, class diagram, flow chart and detailed program execution procedures are explained in the PDF file in repository.
