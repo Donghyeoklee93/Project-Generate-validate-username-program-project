@@ -7,9 +7,12 @@ Develop an application to generate usernames for their employees’ accounts. Th
 Given a full name with the following format : forename surname
 
 The username is generated from the given full name as follows:
+
 a)	The username starts with the last letter of the forename followed by the last letter of the surname, written using the same letter case as in the given full name.
 
 Then the rest of the username is generated from the given full name as follows:
+
+
 b)	Each upper case vowel is added twice to the username
 c)	The space is eliminated
 d)	Apart from the above-mentioned letters and characters, all the other letters should be copied unchanged to the username from the given full name
